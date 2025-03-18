@@ -8,7 +8,7 @@
 **Framework Terbuka** - DAL dikembangkan dengan lisensi **GNU GPL v3** untuk komunitas global.  
 
 ## **Cara Instalasi & Penggunaan**  
-### 1 **Instalasi di Termux/Linux**  
+### **Instalasi di Termux/Linux**  
 ```bash
 # Install dependensi
 sudo apt update && sudo apt install python3 python3-pip -y

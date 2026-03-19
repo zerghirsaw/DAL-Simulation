@@ -168,8 +168,8 @@ Instalasi
 Linux / Termux
 1. sudo apt update && sudo apt install python3 python3-pip -y
 
-2. git clone https://github.com/zerghirsaw/DAL-Simulation.git
-cd DAL-Simulation
+2. git clone https://github.com/zerghirsaw/dal-concept.git
+cd dal-concept
 
 3. python3 -m venv dal_env
 source dal_env/bin/activate
